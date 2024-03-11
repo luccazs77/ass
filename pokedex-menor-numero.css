@@ -1,0 +1,160 @@
+*{
+    padding: O;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+                                                         /*  BULBASAUR  */
+.bulbasaur {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #EDF6EC;
+    width: 348px;
+    height: 102px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+                                                      
+h1,h5{
+    margin-left: 10px;
+  
+}
+
+.saur{
+    background-color: #63BC5A;
+
+    background-size: 95% 95%;
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    width: 110px;
+    height: 102px;
+    
+}
+.poder{
+    display: flex;
+
+}
+.img-folha{
+    margin-left: 3px;
+    margin-top: 3px;
+}
+    
+
+.circulo-imagem{
+    background-color: #ffff;
+    border-radius: 100px;
+    width: 20.31px;
+    height: 20.31px;
+    margin: 5px;
+}
+
+.folha{
+    display: flex;
+    align-items: center;
+    background-color: #63BC5A;
+    width: 78.12px;
+    height: 26.61px;
+    border-radius: 48.61px;
+    margin: 8px;
+
+}
+
+.Venenoso{
+    display: flex;
+    align-items: center;
+    background-color: #B567CE;
+    width: 94.12px;
+    height: 26.61px;
+    border-radius: 48.61px;
+    margin: 8px;
+
+}
+.img-veneno{
+    margin-left: 3px;
+    margin-top: 3px;
+}
+                       /* FIM DO BULBASAUR*/
+.ivysaur {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #EDF6EC;
+    width: 368px;
+    height: 102px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+                                                      
+h1,h5{
+    margin-left: 10px;
+  
+}
+
+.ivy{
+    background-color: #63BC5A;
+    background-image: url("/img/Pokédex _ Pokémon App (Community) (1) (2)/Pokédex/Elemento Outline.png");
+    background-size: 81% 94%;
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    width: 130px;
+    height: 103px;
+    
+}
+.poder{
+    display: flex;
+
+}
+.img-folha{
+    margin-left: 3px;
+    margin-top: 3px;
+}
+    
+
+.circulo-imagem{
+    background-color: #ffff;
+    border-radius: 100px;
+    width: 20.31px;
+    height: 20.31px;
+    margin: 5px;
+}
+
+.folha{
+    display: flex;
+    align-items: center;
+    background-color: #63BC5A;
+    width: 78.12px;
+    height: 26.61px;
+    border-radius: 48.61px;
+    margin: 8px;
+
+}
+
+.Venenoso{
+    display: flex;
+    align-items: center;
+    background-color: #B567CE;
+    width: 94.12px;
+    height: 26.61px;
+    border-radius: 48.61px;
+    margin: 8px;
+
+}
+.img-veneno{
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+.tt{
+    margin-left: 15px;
+}
